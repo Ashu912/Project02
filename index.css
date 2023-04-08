@@ -46,7 +46,7 @@ body{
 
 
 .btn-2{
-    margin-left: 33%;
+    margin-left: 22%;
     margin-top: 10px;
     width: 150px;
 
@@ -106,4 +106,42 @@ body{
     text-decoration: none;
 
   } 
+  .btn-5{
+    margin-top: 10px;
+    width: 150px;
+
+    background: #171a1c;
+    background-image: -webkit-linear-gradient(top, #5583a1, #0991e6);
+    background-image: -moz-linear-gradient(top, #5583a1, #0991e6);
+    background-image: -ms-linear-gradient(top, #5583a1, #0991e6);
+    background-image: -o-linear-gradient(top, #5583a1, #0991e6);
+    background-image: linear-gradient(to bottom, #5583a1, #0991e6);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 21px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  .btn-6{
+    margin-top: 10px;
+    width: 150px;
+
+    background: #171a1c;
+    background-image: -webkit-linear-gradient(top, #5583a1, #0991e6);
+    background-image: -moz-linear-gradient(top, #5583a1, #0991e6);
+    background-image: -ms-linear-gradient(top, #5583a1, #0991e6);
+    background-image: -o-linear-gradient(top, #5583a1, #0991e6);
+    background-image: linear-gradient(to bottom, #5583a1, #0991e6);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 21px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
   
